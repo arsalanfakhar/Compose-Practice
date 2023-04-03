@@ -4,7 +4,7 @@
     "config:base",
     "schedule:daily"
   ],
-  "timezone": "Pakistan",
+  "timezone": "Asia/Karachi",
   "packageRules": [
     {
       "matchPackagePatterns": [
